@@ -130,14 +130,6 @@ When you're done with the server and need it shut down:
    ```  
  **NOTE:** if you make any changes to the code, you will have to re-compile as well by simply running **step 3** again.
  </br></br>
-   
-### Windows Version
-
-*__instructions coming soon__*
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -149,25 +141,6 @@ _For more details, please refer to the **<a href="#roadmap">Roadmap</a>** or the
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-*__instructions coming soon__*
-
-<!-- 
-- [x] Add Changelog
-- [x] Add back to top links
-- [] Add Additional Templates w/ Examples
-- [] Add "components" document to easily copy & paste sections of the readme
-- [] Multi-language Support
-    - [] Chinese
-    - [] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues). -->
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
